@@ -30,7 +30,7 @@ export default function Home({ allPostsData }: Props) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>僕はトラハックです。好きな食べ物はカレーです。運動が苦手。</p>
+        <p>僕は運動が苦手。</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
